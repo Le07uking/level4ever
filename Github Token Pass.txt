@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/68775869/support-for-password-authentication-was-removed-please-use-a-personal-access-to
+
+git config --global user.username
+
+gut clone http.... (link repo)
+Username : Le07uking
+Pass: tokenpass_link
