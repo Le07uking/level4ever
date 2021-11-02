@@ -1,0 +1,14 @@
+Basic built-in terminal commands
+Enough talk — let’s start looking at some terminal commands! Out of the box, here are just a few of the things the command line can do, along with names of relevant tools in each case:
+
+Navigate your computer’s file system along with base level tasks such as create, copy, rename and delete:
+Move around your directory structure: cd
+Create directories: mkdir
+Create files (and modify their metadata): touch
+Copy files: cp
+Move files: mv
+Delete files or directories: rm
+Download files found at specific URLs: curl
+Search for fragments of text inside larger bodies of text: grep
+View a file's contents page by page: less, cat
+Manipulate and transform streams of text (for example changing all the instances of <div>s in an HTML file to <article>): awk, tr, sed
