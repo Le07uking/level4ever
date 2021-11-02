@@ -31,5 +31,30 @@ cp — similar in usage to mv, cp creates a copy of the file in the first locati
 
 rm — removes the specified file. For example, rm mdn-example.txt deletes a single file called mdn-example.txt. Note that this delete is permanent and can’t be undone via the recycle bin that you might have on your desktop user interface.
 
+Linux command line bash
+https://www.freecodecamp.org/news/linux-command-line-bash-tutorial/
+
+Usage
+head [options] [file_name(s)]
+Most used options:
+
+-n N, prints out the first N lines of the file(s)
+-q, doesn’t print out the file headers
+-v, always prints out the file headers
+Example
+head file.txt
+Prints in terminal the first ten lines of file.txt (default)
+
+head -n 7 file.txt
+Prints in terminal the first seven lines of file.txt
+
+head -q -n 5 file1.txt file2.txt
+Print in terminal the first 5 lines of file1.txt, followed by the first 5 lines of file2.txt
+
+Shoild know
+https://www.freecodecamp.org/news/basic-linux-commands-bash-tips-you-should-know/
+
+
+
 
 
