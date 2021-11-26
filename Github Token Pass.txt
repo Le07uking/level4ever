@@ -5,3 +5,16 @@ git config --global user.username
 gut clone http.... (link repo)
 Username : Le07uking
 Pass: tokenpass_link
+
+
+
+git init
+git add <folder1> <folder2> <etc.>
+git commit -m "Your message about the commit"
+git remote add origin https://github.com/yourUsername/yourRepository.git
+git push -u origin master
+git push origin master  
+
+git add
+git commit
+git push -u origin master
